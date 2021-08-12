@@ -221,7 +221,7 @@ Visualization Manager:
           Selectable: true
           Size (Pixels): 3
           Size (m): 0.05000000074505806
-          Style: Flat Squares
+          Style: Points
           Topic: /laser_cloud_map
           Unreliable: false
           Use Fixed Frame: true
@@ -682,7 +682,7 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/XYOrbit
-      Distance: 67.52889251708984
+      Distance: 14.769423484802246
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
@@ -690,17 +690,17 @@ Visualization Manager:
         Value: false
       Field of View: 0.7853981852531433
       Focal Point:
-        X: 37.48545837402344
-        Y: 13.888116836547852
-        Z: -2.3097634315490723
+        X: 33.2999382019043
+        Y: 27.573261260986328
+        Z: -2.3097708225250244
       Focal Shape Fixed Size: true
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.6447967886924744
+      Pitch: 0.5097968578338623
       Target Frame: body
-      Yaw: 0.19132116436958313
+      Yaw: 4.497677326202393
     Saved: ~
 Window Geometry:
   Displays:
