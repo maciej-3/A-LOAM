@@ -63,6 +63,8 @@
 #include "aloam_velodyne/tic_toc.h"
 
 
+#pragma clang diagnostic push
+#pragma ide diagnostic ignored "EndlessLoop"
 int frameCount = 0;
 
 double timeLaserCloudCornerLast = 0;
@@ -937,3 +939,4 @@ int main(int argc, char **argv)
 
 	return 0;
 }
+#pragma clang diagnostic pop
